@@ -1,0 +1,83 @@
+.titulo{
+    text-align: center;
+}
+body{
+    background-image: url('https://cdn-media.sforum.vn/storage/app/media/wp-content/uploads/2024/02/Code-Grimoires-Era-Thumbnail.jpg');
+    width: 750px;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-family: Georgia;
+    left: auto;
+    width: 244%;
+}
+h2 {
+    color: #FFFFFF;
+}
+p{
+    width: 450px;
+    color: #FFFFFF;
+}
+tr{
+    color: #FFFFFF
+}
+li{
+    color: #FFFFFF
+}
+a{
+    color: rgb(47, 0, 255);
+}
+.bloco{
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    padding: 10px; 
+    height: 500px;
+    background-color: #000000;
+}
+.bloco2{
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    padding: 10px; 
+    height: 692px;
+    background-color: #000000;
+}
+.bloco3{
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    padding: 10px; 
+    height: 676px;
+    background-color: #000000;
+}
+.bloco4{
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    padding: 10px; 
+    height: 626px;
+    background-color: #000000;
+}
+.bloco5{
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    padding: 10px; 
+    height: 604px;
+    background-color: #000000;
+}
+.bloco6{
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    padding: 10px; 
+    height: 125px;
+    background-color: #000000;
+}
+label{
+    color: #FFFFFF;
+}
